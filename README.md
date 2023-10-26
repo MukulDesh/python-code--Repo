@@ -2,4 +2,4 @@
 This my first Git Repository .
 </br>
 </br>
-Auther--Mukul Deshpande
+Auther--Mukul (vvsmc college Akola)
